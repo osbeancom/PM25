@@ -210,8 +210,7 @@ void DisplayPm25(float val,float aqi,int pic)//显示数值颗粒数、AQI、背
            cmdcnt=0;return;
       }
         
-      
-   }
+      }
   //命令结束
   if(c=='#')
   {    
